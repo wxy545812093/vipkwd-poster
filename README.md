@@ -3,7 +3,7 @@
 Uni App 小程序海报通用生成组件
 
 ---
----
+![viewer.gif](https://github.com/wxy545812093/vipkwd-poster/raw/master/static/viewer.gif)
 
 ## 插件安装方法
 
